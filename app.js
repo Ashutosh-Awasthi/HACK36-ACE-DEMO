@@ -9,7 +9,7 @@ app.use(express.static("public"));
 
 //#routes.........
 app.get("/",(req,res)=>{
-    res.send("Root ROute");
+    res.render("home");
 });
 
 app.listen(port,()=>{
