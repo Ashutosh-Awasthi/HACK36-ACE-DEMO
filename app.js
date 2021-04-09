@@ -11,6 +11,9 @@ app.use(express.static("public"));
 app.get("/",(req,res)=>{
     res.render("home");
 });
+app.get("/:id/dashboard",(req,res)=>{
+    res.render("dashboard");
+})
 
 app.listen(port,()=>{
     console.log(`app is running, visit: http://www.localhost:${port}`);
