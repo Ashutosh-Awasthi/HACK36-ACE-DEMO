@@ -1,0 +1,24 @@
+{
+  "name": "hack36-ace-demo",
+  "version": "1.0.0",
+  "description": "Student ERP System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashutosh-Awasthi/HACK36-ACE-DEMO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashutosh-Awasthi/HACK36-ACE-DEMO/issues"
+  },
+  "homepage": "https://github.com/Ashutosh-Awasthi/HACK36-ACE-DEMO#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
