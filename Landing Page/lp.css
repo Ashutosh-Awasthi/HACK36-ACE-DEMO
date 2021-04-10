@@ -1,0 +1,23 @@
+#content{
+	text-align: center;
+	padding-top: 5%;
+	color: #e2dfea;
+	font-family: lato;
+}
+
+body{
+	background: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/HGATaVJubj6casdeu/videoblocks-little-students-kids-reading-books-in-the-classroom-animated-characters-4k-video-animation_st5wxklbv_thumbnail-1080_01.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+html{
+	height: 100%;
+}
+
+hr{
+	width: 30%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0);
+}
